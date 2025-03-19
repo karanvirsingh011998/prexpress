@@ -8,9 +8,9 @@ import Footer from '@/components/footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'PR Express - Your Trusted Immigration Partner',
+  title: 'Immigration - Your Trusted Immigration Partner',
   description: 'Professional Canadian immigration consultancy services specializing in Express Entry, Provincial Nominee Programs, and Family Sponsorship.',
-  keywords: 'Canadian immigration, PR Express, Express Entry, PNP, Family Sponsorship, Immigration Consultant',
+  keywords: 'Canadian immigration, Immigration, Express Entry, PNP, Family Sponsorship, Immigration Consultant',
 };
 
 export default function RootLayout({

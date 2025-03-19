@@ -11,7 +11,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center">
               <Compass className="h-8 w-8 text-red-600" />
-              <span className="ml-2 text-xl font-bold text-foreground">PR Express</span>
+              <span className="ml-2 text-xl font-bold text-foreground">Immigration</span>
             </div>
             <p className="mt-4 text-muted-foreground">
               Your trusted partner for Canadian immigration services. We specialize in Express Entry, Provincial Nominee Programs, and Family Sponsorship.
@@ -93,8 +93,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-red-600 mr-2" />
-                <a href="mailto:info@prexpress.ca" className="text-muted-foreground hover:text-red-600 transition-colors">
-                  info@prexpress.ca
+                <a href="mailto:info@immigration.ca" className="text-muted-foreground hover:text-red-600 transition-colors">
+                  info@immigration.ca
                 </a>
               </li>
             </ul>
@@ -103,7 +103,7 @@ const Footer = () => {
         
         <div className="mt-12 pt-8 border-t border-border">
           <p className="text-center text-muted-foreground">
-            © {currentYear} PR Express. All rights reserved.
+            © {currentYear} Immigration. All rights reserved.
           </p>
         </div>
       </div>

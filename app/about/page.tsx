@@ -11,7 +11,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              About PR Express
+              About Immigration
             </h1>
             <p className="text-xl text-muted-foreground">
               Your trusted partner for navigating the Canadian immigration process with confidence and expertise.
@@ -28,7 +28,7 @@ export default function AboutPage() {
               <div className="relative h-[400px] w-full rounded-lg overflow-hidden shadow-xl">
                 <Image
                   src="https://images.unsplash.com/photo-1577962917302-cd874c4e31d2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80"
-                  alt="PR Express office"
+                  alt="Immigration office"
                   fill
                   style={{ objectFit: "cover" }}
                 />
@@ -37,13 +37,13 @@ export default function AboutPage() {
             <div className="md:w-1/2">
               <h2 className="text-3xl font-bold text-foreground mb-6">Our Story</h2>
               <p className="text-lg text-muted-foreground mb-4">
-                Founded in 2015, PR Express was born from a passion to help individuals and families navigate the complex Canadian immigration system. Our founder, having gone through the immigration process personally, understood the challenges and uncertainties that come with it.
+                Founded in 2015, Immigration was born from a passion to help individuals and families navigate the complex Canadian immigration system. Our founder, having gone through the immigration process personally, understood the challenges and uncertainties that come with it.
               </p>
               <p className="text-lg text-muted-foreground mb-4">
                 What started as a small consultancy has grown into a trusted immigration partner for thousands of clients worldwide. Our team of certified immigration consultants brings decades of combined experience and a deep understanding of Canadian immigration policies and procedures.
               </p>
               <p className="text-lg text-muted-foreground">
-                Today, PR Express is proud to have helped over 5,000 individuals and families successfully immigrate to Canada, turning their dreams into reality.
+                Today, Immigration is proud to have helped over 5,000 individuals and families successfully immigrate to Canada, turning their dreams into reality.
               </p>
             </div>
           </div>
@@ -73,7 +73,7 @@ export default function AboutPage() {
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold text-foreground mb-4">Our Values</h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              At PR Express, our values guide everything we do. They reflect our commitment to excellence and client satisfaction.
+              At Immigration, our values guide everything we do. They reflect our commitment to excellence and client satisfaction.
             </p>
           </div>
           

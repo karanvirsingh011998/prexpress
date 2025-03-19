@@ -16,7 +16,7 @@ export default function Home() {
                 Your Journey to Canadian Permanent Residence Starts Here
               </h1>
               <p className="text-xl text-muted-foreground mb-8">
-                PR Express provides expert guidance through every step of your immigration process, making your Canadian dream a reality.
+                Immigration provides expert guidance through every step of your immigration process, making your Canadian dream a reality.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white">
@@ -47,7 +47,7 @@ export default function Home() {
       <section className="py-16 bg-secondary/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-foreground mb-4">Why Choose PR Express?</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-4">Why Choose Immigration?</h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               We combine expertise, personalized service, and a proven track record to make your immigration journey smooth and successful.
             </p>
@@ -189,7 +189,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-muted-foreground">
-                  "PR Express made my immigration journey smooth and stress-free. Their expert guidance helped me navigate the Express Entry system successfully. I'm now happily settled in Toronto!"
+                  "Immigration made my immigration journey smooth and stress-free. Their expert guidance helped me navigate the Express Entry system successfully. I'm now happily settled in Toronto!"
                 </p>
               </CardContent>
             </Card>
@@ -211,7 +211,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-muted-foreground">
-                  "The team at PR Express was instrumental in helping me secure a provincial nomination. Their attention to detail and personalized approach made all the difference."
+                  "The team at Immigration was instrumental in helping me secure a provincial nomination. Their attention to detail and personalized approach made all the difference."
                 </p>
               </CardContent>
             </Card>
@@ -233,7 +233,7 @@ export default function Home() {
                   </div>
                 </div>
                 <p className="text-muted-foreground">
-                  "Thanks to PR Express, I was able to sponsor my parents to join me in Canada. Their expertise in family sponsorship made the process much easier than I expected."
+                  "Thanks to Immigration, I was able to sponsor my parents to join me in Canada. Their expertise in family sponsorship made the process much easier than I expected."
                 </p>
               </CardContent>
             </Card>
@@ -328,7 +328,7 @@ export default function Home() {
                 <h3 className="text-xl font-semibold mb-2">Contact Us</h3>
                 <p className="text-muted-foreground">
                   Phone: +1 (416) 555-7890<br />
-                  Email: info@prexpress.ca<br />
+                  Email: info@immigration.ca<br />
                   <Link href="/contact" className="text-red-600 hover:text-red-700 mt-2 inline-block">
                     Send us a message
                   </Link>

@@ -103,9 +103,9 @@ export default function ContactPage() {
                 <Mail className="h-10 w-10 text-red-600 mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
                 <p className="text-muted-foreground">
-                  General Inquiries: info@prexpress.ca<br />
-                  Consultations: consult@prexpress.ca<br />
-                  Support: support@prexpress.ca
+                  General Inquiries: info@immigration.ca<br />
+                  Consultations: consult@immigration.ca<br />
+                  Support: support@immigration.ca
                 </p>
               </CardContent>
             </Card>
